@@ -1,0 +1,92 @@
+{
+"name": "League of Legends TeamSpeak",
+"description": "League of Legends Themes for TeamSpeak 5 by Domekologe",
+"version": "0.0.1",
+"identifier": "eu.domekologe.leagueoflegends.teamspeak",
+"engines": {
+	"teamspeak": 1
+},
+"homepage": "https://www.domekologe.eu",
+"repository": {
+	"url": "https://github.com/Domekologe/teamspeak5-theme-leagueoflegends",
+	"type": "git",
+	"directory": "teamspeak5-theme-lol"
+},
+"community": {
+	"server": "domekologe.united-ts3.de"
+},
+"image": "ahri.png",
+"license": "MIT",
+"author": {
+	"name": "Domekologe",
+	"url": "https://www.domekologe.eu",
+	"userTag": "Domekologe@myteamspeak.com"
+},
+
+
+"content": {
+
+	"themes": [
+			{
+			  "name": "Ahri",
+			  "source": "ahri.css",
+			  "image": "ahri.png",
+			  "apiVersion": 1
+			},
+			{
+			  "name": "Ahri 1",
+			  "source": "ahri1.css",
+			  "image": "ahri1.png",
+			  "apiVersion": 1
+			},
+			{
+			  "name": "Akali",
+			  "source": "akali.css",
+			  "image": "akali.png",
+			  "apiVersion": 1
+			},
+			{
+			  "name": "Ashe",
+			  "source": "ashe.css",
+			  "image": "ashe.png",
+			  "apiVersion": 1
+			},
+			{
+			  "name": "Jinx",
+			  "source": "jinx.css",
+			  "image": "jinx.png",
+			  "apiVersion": 1
+			},
+			{
+			  "name": "Jinx 1",
+			  "source": "jinx1.css",
+			  "image": "jinx1.png",
+			  "apiVersion": 1
+			},
+			{
+			  "name": "Nunu and Willump",
+			  "source": "nunuwillump.css",
+			  "image": "nunuwillump.png",
+			  "apiVersion": 1
+			},
+			{
+			  "name": "Poro",
+			  "source": "poro.css",
+			  "image": "poro.png",
+			  "apiVersion": 1
+			},
+			{
+			  "name": "Quinn",
+			  "source": "quinn.css",
+			  "image": "quinn.png",
+			  "apiVersion": 1
+			},
+			{
+			  "name": "Lux Hero",
+			  "source": "lux.css",
+			  "image": "lux.png",
+			  "apiVersion": 1
+			}
+	 ]
+}
+}
